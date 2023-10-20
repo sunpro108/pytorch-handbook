@@ -1,0 +1,5 @@
+[default]
+entity = sunpiece
+project = ddp
+base_url = https://api.wandb.ai
+
