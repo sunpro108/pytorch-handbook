@@ -1,0 +1,26 @@
+2024-10-11 18:08:53,602 - accelerate.utils.other - WARNING > other.py@349: Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2024-10-11 18:08:53,603 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:53,604 - __main__ - DEBUG > log_test.py@15: My log
+2024-10-11 18:08:53,604 - __main__ - INFO > log_test.py@19: My log
+2024-10-11 18:08:53,605 - __main__ - DEBUG > log_test.py@20: My second log
+2024-10-11 18:08:53,605 - __main__ - INFO > log_test.py@25: a
+2024-10-11 18:08:53,936 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,045 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,155 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,227 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,243 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,262 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:08:54,296 - __main__ - INFO > log_test.py@14: My log
+2024-10-11 18:10:36,693 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:36,774 - accelerate.utils.other - WARNING > other.py@349: Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2024-10-11 18:10:36,775 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:36,776 - __main__ - DEBUG > log_test.py@15: My log, main process
+2024-10-11 18:10:36,777 - __main__ - INFO > log_test.py@19: My log, default process only
+2024-10-11 18:10:36,777 - __main__ - DEBUG > log_test.py@20: My second log
+2024-10-11 18:10:36,778 - __main__ - INFO > log_test.py@25: a
+2024-10-11 18:10:36,883 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:36,938 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:37,065 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:37,112 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:37,225 - __main__ - INFO > log_test.py@14: My log, all process
+2024-10-11 18:10:37,364 - __main__ - INFO > log_test.py@14: My log, all process
